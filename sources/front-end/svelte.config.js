@@ -11,7 +11,7 @@ const config = {
 		adapter: adapterNode({
 			precompress: true,
 		}),
-		target: '#schedule',
+		target: '#svelte-kit',
 		hydrate: true,
 		router: true,
 		vite: {
