@@ -10,6 +10,7 @@
     "format": "prettier --ignore-path .gitignore --write --plugin-search-dir=. ."
   },
   "devDependencies": {
+    "@smui/data-table": "^6.0.0-beta.13",
     "@sveltejs/adapter-node": "^1.0.0-next.55",
     "@sveltejs/kit": "next",
     "eslint": "^7.32.0",
