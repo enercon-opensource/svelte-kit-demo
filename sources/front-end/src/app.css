@@ -9,6 +9,8 @@
   /* http://www.roblaplaca.com/examples/bezierBuilder/ */
   --transition-timing-function: cubic-bezier(.20, 0, .19, 1);
   --transition-duration: 0.125s;
+
+  --grid-gap: max(0.5vw, 0.5vh)
 }
 
 body {
